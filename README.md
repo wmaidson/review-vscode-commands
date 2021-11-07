@@ -6,3 +6,4 @@ Comandos utilizados para codereview
 | ------ | ------ |
 | Ctrl + K + W  | Close All |
 | Ctrl + K + U | Close Saved |
+| Ctrl + Shift + P | Command Palette |
