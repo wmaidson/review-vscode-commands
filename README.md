@@ -14,3 +14,5 @@ Comandos utilizados para codereview
 | Alt +F12 |  Show the definition of the function or method |
 | CTRL + ALT+UP | Adicionar um cursor acima da linha atual |  
 | CTRL+ALT+DOWN | Adicionar um cursor Abaixo da linha atual |
+| CTRL  +SHIFT + K | Apagar linha selecionada |
+| F2 | Renomear simbolo ou variável |
